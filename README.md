@@ -1,9 +1,9 @@
-== Quick Start
+# Quick Start
 
 Obtain requirements
 
-	* `numpy`
-	* `sklearn`
+* `numpy`
+* `sklearn`
 
 Install with
 
