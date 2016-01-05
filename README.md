@@ -4,6 +4,7 @@ Obtain requirements
 
 * `numpy`
 * `sklearn`
+* `matplotlib`
 
 Install with
 
