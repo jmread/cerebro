@@ -1,21 +1,31 @@
 # Quick Start
 
-Obtain requirements
+## Obtain requirements
 
 * `numpy`
 * `sklearn`
 * `matplotlib`
 
-Install with
+## Install with
 
 ```
 	$ python setup.py install
 ```
 
-Run the demos
+## Run the demos
+
+### A supervised learning problem 
 
 ```
 	python demo_supervised.py
 ```
 
+![Demo Supervised](screenshot_sup_learn.png)
 
+### Using reinforcement learning
+
+```
+	python demo_reinforcement.py
+```
+
+![Demo Reinforcement](screenshot_reinforcement.png)
