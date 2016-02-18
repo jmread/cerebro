@@ -28,4 +28,4 @@
 	python demo_reinforcement.py
 ```
 
-![Demo Reinforcement](screenshot_reinforcement.png)
+![Demo Reinforcement](screenshot_reinforce.png)
